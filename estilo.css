@@ -1,0 +1,50 @@
+/* Estilizar o botão de busca */
+#widget-busca-6.busca-widget.widget-busca-3.center-div .busca-submit-tratado {
+    border-radius: 10px;
+    background-color: #4CAF50; /* Verde */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Estilizar o destaque de lançamento */
+#destaque-lancamento #carouselLancamento .destaque-emp .content-lancamento .destaque-emp-tipo {
+    color: #FF5733; /* Laranja */
+    font-weight: bold;
+}
+
+/* Estilizar o destaque do imóvel */
+.destaque-6 .destaque-imovel {
+    border: 2px solid #eb141448;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/* Estilizar os controles do carrossel */
+#destaque-lancamento #carouselLancamento .carousel-control {
+    margin: 0 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    background-color: #333; 
+    border-radius: 50%;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+/* Estilizar os depoimentos */
+.widgets-div.widget-cliente #carouselDepoimento .widget-depoimento .col-sm-4 {
+    background-color: #00e1ff11; 
+    color: #333; 
+    border: 2px solid #eb141448; 
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
